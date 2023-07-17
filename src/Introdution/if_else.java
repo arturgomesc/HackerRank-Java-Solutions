@@ -1,5 +1,7 @@
+package Introdution;
+
 import java.util.Scanner;
-public class solution3 {
+public class if_else {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

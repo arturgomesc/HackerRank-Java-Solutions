@@ -1,5 +1,7 @@
+package Introdution;
+
 import java.util.Scanner;
-public class Solution4 {
+public class stdin_stdout_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
